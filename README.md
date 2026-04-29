@@ -109,6 +109,7 @@
 
    ```bash
    double-click on the executable according to your operating system
+   python final.py
    ```
 
    Then:
