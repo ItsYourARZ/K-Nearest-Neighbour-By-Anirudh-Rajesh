@@ -1,3 +1,6 @@
+# K-Nearest Neighbour Algorithm by Anirudh Rajesh
+# © 2026 Anirudh Rajesh - All Rights Reserved
+
 A fully interactive **Machine Learning toolkit built from scratch using pure Python** — no external libraries like NumPy, pandas, or scikit-learn.
 
 This project demonstrates how core ML concepts actually work under the hood, with **step-by-step explanations, visualizations, and real-time predictions**.
