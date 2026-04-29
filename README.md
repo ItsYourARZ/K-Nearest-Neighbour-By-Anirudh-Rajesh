@@ -1,4 +1,4 @@
-   # K-Nearest Neighbour Algorithm by Anirudh Rajesh
+   # K-Nearest Neighbour Model by Anirudh Rajesh
    © 2026 Anirudh Rajesh - All Rights Reserved
 
    A fully interactive **Machine Learning toolkit built from scratch using pure Python** with no external libraries such as NumPy, pandas, or scikit-learn.
