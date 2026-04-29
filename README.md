@@ -1,5 +1,5 @@
 # K-Nearest Neighbour Algorithm by Anirudh Rajesh
-# © 2026 Anirudh Rajesh - All Rights Reserved
+© 2026 Anirudh Rajesh - All Rights Reserved
 
 A fully interactive **Machine Learning toolkit built from scratch using pure Python** — no external libraries like NumPy, pandas, or scikit-learn.
 
